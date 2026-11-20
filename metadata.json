@@ -1,0 +1,6 @@
+{
+  "name": "FraudShield",
+  "description": "AI-powered financial fraud detection, real-time transaction monitoring, and graph intelligence dashboard prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
